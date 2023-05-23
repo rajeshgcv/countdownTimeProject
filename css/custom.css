@@ -51,6 +51,8 @@ input{
     border-radius: 10px;
     border-color: transparent;
     margin: 10px;
+    text-align: center;
+    font-size: 30px;
 }
 
 
