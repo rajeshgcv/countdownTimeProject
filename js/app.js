@@ -6,7 +6,6 @@ const inputs=document.querySelectorAll("input")
 // const clock=() =>{
 
 // } 
-
 function clock(){
     const end =new Date(endDate);
     const now=new Date();
